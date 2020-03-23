@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_srcustomapp01.si2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>si2</name>
+        <script><![CDATA[var si2 = Class.create();
+si2.prototype = {
+    initialize: function() {
+		//sadfdsfdfs
+    },
+
+    type: 'si2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 05:33:37</sys_created_on>
+        <sys_id>b3700b1c5c774010f877e8e2c689533e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>si2</sys_name>
+        <sys_package display_value="srcustomapp01" source="x_srcustomapp01">ac6e7e945c774010f877e8e2c68953d3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="srcustomapp01">ac6e7e945c774010f877e8e2c68953d3</sys_scope>
+        <sys_update_name>sys_script_include_b3700b1c5c774010f877e8e2c689533e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 05:33:37</sys_updated_on>
+    </sys_script_include>
+</record_update>
