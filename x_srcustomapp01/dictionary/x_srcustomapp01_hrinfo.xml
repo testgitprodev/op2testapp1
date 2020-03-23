@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="HRInfo" max_length="40" name="x_srcustomapp01_hrinfo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="EMployeeName" max_length="40" name="employeename" type="string"/>
+        <element label="EmployeeSalary" max_length="15" name="employeesalary" type="decimal"/>
+    </element>
+</database>
